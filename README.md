@@ -55,7 +55,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmlGhazy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmlGhazy&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AmlGhazy&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,8 +64,6 @@
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmlGhazy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </p>
-
----
 
 ## 🌐 Connect With Me
 

@@ -14,16 +14,23 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📊 Passionate about Data Analytics & Data Visualization
-- 📈 Building interactive dashboards using Power BI
-- 🐍 Working with Python for Data Analysis & Web Scraping
-- 🧠 Interested in Business Intelligence & Automation
-- ⚡ Currently learning n8n Automation
-- 💡 Turning raw data into actionable insights
-- 🌱 Continuously improving my analytics & AI skills
-- 🎯 Goal: Becoming a professional Data Analyst
+- 📊 Passionate about Data Analytics & Data Visualization  
+- 📈 Building interactive dashboards using Power BI  
+- 🐍 Working with Python for Data Analysis & Web Scraping  
+- 🧠 Interested in Business Intelligence & Automation  
+- ⚡ Currently learning n8n Automation  
+- 💡 Turning raw data into actionable insights  
+- 🌱 Continuously improving my analytics skills  
+- 🎯 Goal: Becoming a professional Data Analyst  
 
 <br><br>
+
+---
+
+## 🎓 Education
+
+- Bachelor's Degree in Electrical Engineering  
+  Kafr El Sheikh University
 
 ---
 
@@ -65,6 +72,8 @@
 
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -87,11 +96,11 @@
 
 ## 🧠 Currently Learning
 
-- Advanced SQL
-- Machine Learning
-- n8n Automation
-- Data Storytelling
-- AI for Analytics
+- Advanced SQL  
+- Machine Learning  
+- n8n Automation  
+- Data Storytelling  
+- AI for Analytics  
 
 ---
 

@@ -30,7 +30,8 @@
 ## 🎓 Education
 
 - Bachelor's Degree in Electrical Engineering  
-  Kafr El Sheikh University
+  Kafr El Sheikh University  
+  📊 Grade: Very Good
 
 ---
 

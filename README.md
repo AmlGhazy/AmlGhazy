@@ -103,15 +103,7 @@
 - Data Storytelling  
 - AI for Analytics  
 
----
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmlGhazy&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
----
 
 <h3 align="center">
 ✨ “Data is the new oil, but insights are the real value.” ✨
